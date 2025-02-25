@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/tailwind_website/static/css/main.4b486d84.css",
+    "main.js": "/tailwind_website/static/js/main.2faed7c0.js",
+    "static/js/453.fe409b8f.chunk.js": "/tailwind_website/static/js/453.fe409b8f.chunk.js",
+    "static/media/bestseller_6.png": "/tailwind_website/static/media/bestseller_6.7e726ada592073a09cce.png",
+    "static/media/bestseller_3.png": "/tailwind_website/static/media/bestseller_3.24a87ec0fa4c582a407b.png",
+    "static/media/bestseller_1.png": "/tailwind_website/static/media/bestseller_1.716d9b648cf38e2dee57.png",
+    "static/media/bestseller_4.png": "/tailwind_website/static/media/bestseller_4.8369bc68ce60556dccb7.png",
+    "static/media/bestseller_2.png": "/tailwind_website/static/media/bestseller_2.8b6a03d11913e59191b3.png",
+    "index.html": "/tailwind_website/index.html",
+    "main.4b486d84.css.map": "/tailwind_website/static/css/main.4b486d84.css.map",
+    "main.2faed7c0.js.map": "/tailwind_website/static/js/main.2faed7c0.js.map",
+    "453.fe409b8f.chunk.js.map": "/tailwind_website/static/js/453.fe409b8f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b486d84.css",
+    "static/js/main.2faed7c0.js"
+  ]
+}
