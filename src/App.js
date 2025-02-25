@@ -1,6 +1,6 @@
 
 import "./App.css";
-import { BrowserRouter, Route, Routes } from "react-router-dom";
+import { HashRouter, Route, Routes } from "react-router-dom";
 import Home from "./Home";
 import Product from "./Product";
 import Contact from './Contact';
@@ -9,7 +9,7 @@ import Contact from './Contact';
 
 function App() {
   return (
-    <BrowserRouter basename="/tailwind_website">
+    <HashRouter>
     <Routes>
       <Route path="/" element={<Home/>}/>
       <Route path="/product" element={<Product/>} />
@@ -17,7 +17,7 @@ function App() {
 
   
     </Routes>
-    </BrowserRouter>
+    </HashRouter>
    
   );
 }
