@@ -9,7 +9,7 @@ import Contact from './Contact';
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/tailwind_website">
     <Routes>
       <Route path="/" element={<Home/>}/>
       <Route path="/product" element={<Product/>} />
